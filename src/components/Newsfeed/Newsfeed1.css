@@ -1,0 +1,14 @@
+.sidebarN{
+    flex: 1;
+    /* border: 2px solid red; */
+}
+
+.mainFeedN{
+    flex: 4;
+    /* border: 2px solid blue; */
+}
+
+.widgetsN{
+    flex: 1;
+    /* border: 2px solid green; */
+}

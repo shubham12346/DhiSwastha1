@@ -1,0 +1,32 @@
+
+.bdr{
+    width: 70%;
+    min-width: 500px;
+    border-radius: 20px;
+   
+   
+  
+}
+
+
+#tx{
+    width: 40vw;
+    height: 3rem;
+}
+#tx{
+    border-radius: 20px;
+    
+}
+
+@media screen and (max-width:1100px){
+    #tx{
+        width: 25rem;
+    }
+
+   
+    
+}
+
+
+
+ 
